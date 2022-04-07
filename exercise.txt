@@ -1,0 +1,7 @@
+/Users/nawazhaque/Basics/exercise.txt
+
+Terminals allow us to automate tasks without the use of a GUI
+
+2. Github is connected online and users of Git can connect to it and upload or download resources. Whereas Git is open source, which is installed locally to manage code.
+
+3. Large groups working on a project are all able to collaborate on said project and manage it easily.
